@@ -1,0 +1,9 @@
+Hi, this simple and humble website is made by  Jaynery S, Enriquez, a junior web developer
+
+---this is not a complete website.
+--- other functions is intended not to respond when clicked or hover.
+
+i just hope my friend like it =)
+
+
+"you can copy my codes" 
